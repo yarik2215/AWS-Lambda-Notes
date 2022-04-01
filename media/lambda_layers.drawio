@@ -40,6 +40,9 @@
                 <mxCell id="7" value="Layer 3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
                     <mxGeometry x="435" y="390" width="120" height="60" as="geometry"/>
                 </mxCell>
+                <mxCell id="14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;strokeColor=#B3B3B3;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="190" width="540" height="290" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
